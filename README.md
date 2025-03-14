@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###Hello, I'm Hardik450, a passionate Django developer. I love building web applications that solve real-world problems, and I'm constantly exploring new technologies to expand my skill set.
+
+##🚀 What I Do
+-Develop Django-based web applications
+-Work on full-stack projects with Python, JavaScript, and Bootstrap
+-Explore machine learning, AI & Data Science.
+
+##🔗 Connect with Me
+-Check out my GitHub profile for my latest projects
