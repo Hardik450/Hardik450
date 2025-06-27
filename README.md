@@ -43,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=langchain" title="LangChain" width="40"/>
-  <img src="https://www.google.com/imgres?q=google%20colab%20image&imgurl=https%3A%2F%2Fcolab.research.google.com%2Fimg%2Fcolab_favicon_256px.png&imgrefurl=https%3A%2F%2Fcolab.research.google.com%2F&docid=l5bQPA_r0pib2M&tbnid=kKOjm-thSJ6RxM&vet=12ahUKEwi5wvD_jJKOAxU6XWwGHUlSDdkQM3oECBwQAA..i&w=260&h=260&hcb=2&ved=2ahUKEwi5wvD_jJKOAxU6XWwGHUlSDdkQM3oECBwQAA" width='40'/>
   <img src="https://img.shields.io/badge/Gemini-GoogleAI-blue?style=flat&logo=google" height="25"/>
 </p>
 
