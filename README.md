@@ -66,6 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hardik450&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik450&theme=tokyonight-duo&card_width=400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik450&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hardik450e&theme=onedark"/>
+
 </p>
 
 ---
