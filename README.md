@@ -66,8 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hardik450&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardik450&theme=tokyonight-duo&card_width=400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardik450&layout=compact&theme=tokyonight" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub Trophies">
+</a>
 
 </p>
 
